@@ -1,0 +1,47 @@
+2024-06-05 09:00:42,412 - INFO - Failed login attempt.
+2024-06-05 09:00:58,868 - INFO - User user12 logged in successfully.
+2024-06-05 09:01:24,545 - INFO - Borrow failed: No book found with ISBN 9.
+2024-06-05 09:01:33,125 - INFO - Displayed books: No books available.
+2024-06-05 09:01:41,202 - INFO - User user12 logged out.
+2024-06-05 09:01:50,588 - INFO - User admin logged in successfully.
+2024-06-05 09:03:19,776 - INFO - Book added: ISBN: 9999999999999, Title: HIGHWAY CODE, Publisher: LTA, Language: ENGLISH, Number of Copies: 20, Availability: True
+2024-06-05 09:03:23,545 - INFO - Displayed all book records.
+2024-06-05 09:03:37,011 - INFO - Book borrowed: ISBN: 9999999999999, Title: HIGHWAY CODE, Publisher: LTA, Language: ENGLISH, Number of Copies: 19, Availability: True
+2024-06-05 09:03:38,541 - INFO - Displayed all book records.
+2024-06-05 09:03:54,366 - INFO - Book returned: ISBN: 9999999999999, Title: HIGHWAY CODE, Publisher: LTA, Language: ENGLISH, Number of Copies: 20, Availability: True
+2024-06-05 09:08:10,660 - INFO - User admin logged out.
+2024-06-05 09:09:18,652 - INFO - User user12 logged in successfully.
+2024-06-05 09:09:29,066 - INFO - Displayed all book records.
+2024-06-05 09:13:24,543 - INFO - Borrow failed: No book found with ISBN 1.
+2024-06-05 09:21:03,544 - INFO - User user12 logged out.
+2024-06-05 09:21:45,399 - INFO - User user12 logged in successfully.
+2024-06-05 09:22:48,983 - INFO - User admin logged in successfully.
+2024-06-05 09:30:13,080 - INFO - User admin logged in successfully.
+2024-06-05 09:33:03,658 - INFO - Invalid menu choice: & C:/Users/yf/AppData/Local/Programs/Python/Python39/python.exe c:/Users/yf/Desktop/Y2S1/dsa_assignment_1_final/dsa_assignment_1/main2.py
+2024-06-05 09:33:07,184 - INFO - User admin logged out.
+2024-06-05 09:33:15,336 - INFO - User admin logged in successfully.
+2024-06-05 09:33:55,286 - INFO - User admin logged out.
+2024-06-05 09:34:02,506 - INFO - User admin logged in successfully.
+2024-06-05 09:35:08,968 - INFO - Book added: ISBN: 9879999999801, Title: YOU FOUND ME, Publisher: THE FRAY, Language: ENGLISH, Number of Copies: 90, Availability: True
+2024-06-05 09:36:43,840 - INFO - User admin logged out.
+2024-06-05 09:36:51,090 - INFO - User admin logged in successfully.
+2024-06-05 09:37:43,670 - INFO - Book added: ISBN: 9090909090912, Title: SCAR TISSUE, Publisher: RED HOT CHILLI PEPPERS, Language: ENGLISH, Number of Copies: 40, Availability: True
+2024-06-05 09:37:54,629 - INFO - User admin logged out.
+2024-06-05 09:38:04,468 - INFO - User admin logged in successfully.
+2024-06-05 09:38:52,745 - INFO - Book added: ISBN: 9812345678939, Title: LUNCH, Publisher: BILLIE EILISH, Language: CHINESE, Number of Copies: 30, Availability: True
+2024-06-05 09:42:00,709 - INFO - User admin logged out.
+2024-06-05 09:42:11,714 - INFO - Failed login attempt.
+2024-06-05 09:42:17,256 - INFO - User admin logged in successfully.
+2024-06-05 09:42:47,843 - INFO - User admin logged out.
+2024-06-05 09:42:55,290 - INFO - User admin logged in successfully.
+2024-06-05 09:45:55,417 - INFO - Sorted books by publisher (ascending order).
+2024-06-05 09:46:26,590 - INFO - User admin logged out.
+2024-06-05 09:47:26,593 - INFO - User user12 logged in successfully.
+2024-06-05 09:48:16,245 - INFO - User user12 logged out.
+2024-06-05 09:48:31,713 - INFO - User admin logged in successfully.
+2024-06-05 09:49:25,133 - INFO - Book added: ISBN: 9000000123456, Title: HARRY POTTER, Publisher: AMY PUBLISHING, Language: ENGLISH, Number of Copies: 80, Availability: True
+2024-06-05 09:49:53,159 - INFO - Sorted books by number of copies (descending order).
+2024-06-05 09:50:41,765 - INFO - Sorted books by publisher (ascending order).
+2024-06-05 09:51:37,890 - INFO - Book borrowed: ISBN: 9000000123456, Title: HARRY POTTER, Publisher: AMY PUBLISHING, Language: ENGLISH, Number of Copies: 79, Availability: True
+2024-06-05 09:51:50,686 - INFO - Borrow failed: No book found with ISBN 928392.
+2024-06-05 09:54:21,914 - INFO - Book added: ISBN: 9893990999999, Title: xxxxxxx, Publisher: PPPPPP, Language: ENGLISH, Number of Copies: 80, Availability: False
